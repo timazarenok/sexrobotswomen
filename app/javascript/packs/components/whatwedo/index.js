@@ -6,6 +6,10 @@ import pic from "./pic.png";
 
 import { URL } from "../utils";
 
+const Button = styled.button({
+  color: 'grey',
+});
+
 const Whatwedo = () => {
   const { t, i18n } = useTranslation();
 
