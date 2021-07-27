@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Row, Col, Button, Image } from "react-bootstrap";
+import { Row, Col, Image } from "react-bootstrap";
 import { Trans, useTranslation } from "react-i18next";
 import "./whatwedo.css";
 import pic from "./pic.png";
