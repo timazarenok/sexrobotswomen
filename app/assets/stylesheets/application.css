@@ -39,7 +39,7 @@
 .what-we-do-subtitle {
   display: right;
   color: #40ffff;
-  margin-left: 0px;
+  margin: 0px;
   font-size: 71px !important;
   line-height: 1.2 !important;
   font-family: "Digital Numbers Regular";
@@ -485,6 +485,8 @@
   margin-top: 20px;
   height: 35px;
   width: auto;
+  display: inline-block;
+  text-align: center;
 }
 
 .nav-item a {
