@@ -43,6 +43,8 @@
   font-size: 71px !important;
   line-height: 1.2 !important;
   font-family: "Digital Numbers Regular";
+  src: local("Digital Numbers Regular"),
+  url("./DigitalNumbers-Regular.woff") format("woff");
 }
 
 .line-block {
