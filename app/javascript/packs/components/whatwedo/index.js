@@ -1,15 +1,8 @@
-import React, { useState, useEffect } from "react";
-import { Row, Col, Image } from "react-bootstrap";
+import React from "react";
+import { Button, Image } from "react-bootstrap";
 import { Trans, useTranslation } from "react-i18next";
 import "./whatwedo.css";
 import pic from "./pic.png";
-
-import { URL } from "../utils";
-import styled from 'styled-components'
-
-const Button = styled.button({
-  color: 'grey',
-});
 
 const Whatwedo = () => {
   const { t, i18n } = useTranslation();
