@@ -1,0 +1,11 @@
+.blog-line {
+  background: #00ffff;
+  height: 10px;
+  text-align: center;
+  margin-left: 200px;
+}
+
+.blog-line-block {
+  height: 70px;
+  margin-top: 20px;
+}

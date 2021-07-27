@@ -1,0 +1,140 @@
+@import url("https://fonts.googleapis.com/css?family=Geo");
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans");
+
+@font-face {
+  font-family: "Digital Numbers Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Digital Numbers Regular"),
+    url("./DigitalNumbers-Regular.woff") format("woff");
+}
+
+.pic-foto {
+  width: 700px !important;
+  height: 400px !important;
+  display: left;
+}
+
+.what-we-do-block {
+  margin-top: 250px;
+  display: flex;
+}
+
+.what-we-do-subtitle {
+  display: right;
+  color: #40ffff;
+  margin-left: 0px;
+  font-size: 71px !important;
+  line-height: 1.2 !important;
+  font-family: "Digital Numbers Regular";
+}
+
+.line-block {
+  height: 70px;
+  margin-right: 20%;
+  margin-top: 5%;
+}
+
+.line {
+  background: #00ffff;
+  height: 10px;
+  text-align: center;
+  margin: auto;
+}
+
+.second-block {
+  margin-top: 100px;
+  display: flex;
+}
+
+.second-title {
+  font-size: 48px;
+  display: left;
+  text-align: center;
+  width: 50% !important;
+  height: 50px;
+  text-transform: uppercase;
+  font-family: "Digital Numbers Regular";
+}
+
+.second-text {
+  font-size: 24px;
+  margin-right: 20%;
+  font-family: Josefin Sans;
+}
+
+.second-button {
+  width: 350px;
+  height: 50px;
+  font-family: Josefin Sans;
+  font-size: 18px;
+  background-color: white;
+  border: 1px solid #00ffff;
+  color: black;
+  margin-left: 150px;
+  margin-top: 70px;
+}
+
+.second-button:hover {
+  background-color: #00ffff;
+  color: black;
+  border: 1px solid #00ffff;
+}
+
+@media (max-width: 375px) {
+  .pic-foto {
+    display: none;
+  }
+
+  .what-we-do-block {
+    display: none;
+  }
+
+  .what-we-do-subtitle {
+    display: none;
+  }
+
+  .line-block {
+    height: 20px;
+    margin-right: 0;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+
+  .line {
+    background: #00ffff;
+    height: 5px;
+    width: 80%;
+    text-align: center;
+    margin: auto;
+  }
+
+  .second-block {
+    margin-top: 100px;
+    display: block;
+  }
+
+  .second-title {
+    font-size: 18px;
+    text-align: center;
+    width: 100% !important;
+    margin: auto;
+    text-transform: uppercase;
+    font-family: "Digital Numbers Regular";
+  }
+
+  .second-text {
+    font-size: 14px;
+    width: 80%;
+    margin: auto;
+    font-family: Josefin Sans;
+  }
+
+  .second-button {
+    width: 251px !important;
+    height: 40px !important;
+    margin-top: 30px !important;
+    font-size: 14px !important;
+    margin-left: 60px !important;
+  }
+}

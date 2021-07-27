@@ -1,0 +1,13 @@
+const loadPath = (languages, namespaces) => {
+  if (languages[0] === 'en') {
+    return '<%= ActionController::Base.helpers.asset_path("en/translation.json") %>';
+  }
+  
+  if (languages[0] === 'de') {
+    return '<%= ActionController::Base.helpers.asset_path("de/translation.json") %>';
+  }
+  
+  return undefined;
+};
+
+export default loadPath;

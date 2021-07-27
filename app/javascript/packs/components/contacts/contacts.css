@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans");
+
+.email-block {
+  margin-top: 15%;
+}
+
+.email-logo,
+.email-text {
+  display: inline;
+}
+
+.email-logo {
+  width: 25px;
+  height: 25px;
+  margin-bottom: 10px;
+}
+
+.email-text {
+  width: 450px;
+  height: 50px;
+  font-family: Josefin Sans;
+  margin-left: 10px;
+  font-size: 36px;
+}
+
+.line-block-contacts {
+  height: 30px;
+  width: 750px;
+  margin-top: 20px;
+}
+
+.contacts-text {
+  font-family: Josefin Sans;
+  font-size: 24px;
+  width: 600px;
+  text-align: center;
+  margin-top: 70px;
+}
+
+.images {
+  margin-top: 20px;
+}
+
+@media (max-width: 375px) {
+  .email-block {
+    margin-top: 15%;
+  }
+
+  .email-logo,
+  .email-text {
+    display: inline;
+  }
+
+  .email-logo {
+    width: 25px;
+    height: 25px;
+    margin-bottom: 10px;
+  }
+
+  .email-text {
+    width: 80%;
+    height: 50px;
+    margin: auto;
+    font-family: Josefin Sans;
+    margin-left: 10px;
+    font-size: 22px;
+  }
+
+  .line-block-contacts {
+    height: 30px;
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+  }
+
+  .contacts-text {
+    font-family: Josefin Sans;
+    font-size: 24px;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  .images img {
+    margin: auto;
+  }
+
+  .kulturhaus {
+    width: 300px;
+  }
+
+  .images {
+    text-align: center;
+    margin-top: 20px;
+  }
+}
