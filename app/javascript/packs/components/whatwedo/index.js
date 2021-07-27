@@ -5,6 +5,7 @@ import "./whatwedo.css";
 import pic from "./pic.png";
 
 import { URL } from "../utils";
+import styled from 'styled-components'
 
 const Button = styled.button({
   color: 'grey',
