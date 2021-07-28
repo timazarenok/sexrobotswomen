@@ -22,7 +22,7 @@
   font-style: normal;
   font-weight: normal;
   src: local("Digital Numbers Regular"),
-    url("./DigitalNumbers-Regular.woff") format("woff");
+    url("../fonts/DigitalNumbers-Regular.woff") format("woff");
 }
 
 .pic-foto {
@@ -44,7 +44,7 @@
   line-height: 1.2 !important;
   font-family: "Digital Numbers Regular";
   src: local("Digital Numbers Regular"),
-  url("./DigitalNumbers-Regular.woff") format("woff");
+  url("../fonts/DigitalNumbers-Regular.woff") format("woff");
 }
 
 .line-block {
@@ -651,6 +651,7 @@
     margin-bottom: 0px;
     margin-left: 7px;
     margin-right: 7px;
+    display: inline-flex;
   }
 
   .desktop {
