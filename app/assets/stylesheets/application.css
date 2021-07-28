@@ -511,8 +511,9 @@
   height: 75px;
   position: relative;
   top: 0;
-  left: 48%;
+  left: 55%;
   width: 50%;
+  display: flex;
   z-index: 101;
   font-family: Josefin Sans;
 }
@@ -528,7 +529,10 @@
 
 .language-block {
   display: inline;
-  margin-top: 80px !important;
+  text-align: center;
+  margin-top: 20px;
+  position: absolute;
+  margin-left: 75%;
 }
 
 .social,
@@ -540,7 +544,11 @@
 }
 
 .social {
-  margin-left: 10px;
+  margin-left: 5px;
+  margin-top: 5px;
+  width: max-content;
+  padding: 5px;
+  text-align: center;
 }
 
 .language-button {
@@ -573,13 +581,21 @@
   background-color: black;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 400px) {
   .desktop {
     display: none;
   }
 
   .mobile {
     display: inherit;
+  }
+
+  .language-block {
+    display: inline;
+    text-align: center;
+    margin-top: 0px;
+    position: relative;
+    margin-left: 0px;
   }
 
   .navbar {
