@@ -303,7 +303,7 @@
     width: 75%;
     margin: auto;
     position: absolute;
-    margin-top: 300px;
+    margin-top: 315px;
     margin-left: 45px;
   }
 
@@ -354,15 +354,16 @@
     padding-top: 0px;
     font-size: 14px;
     height: 20px;
-    width: 75%;
+    width: 45%;
     margin: auto;
     font-family: Josefin Sans;
     text-align: center;
     line-height: 1;
+    display: flex;
   }
 
   .what-we-are-text {
-    padding-top: 24px;
+    padding-top: 45px;
     font-size: 11px;
     width: 55%;
     margin: auto;
@@ -605,6 +606,7 @@
     height: 35px;
     width: auto;
     text-align: center;
+    display: block;
   }
 
   .justify-content-end {
