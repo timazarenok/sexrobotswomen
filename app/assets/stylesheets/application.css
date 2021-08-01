@@ -566,11 +566,11 @@
 }
 
 .header-burger-button {
+  display: block;
   border: none;
   background-color: inherit;
   margin-left: 5px;
   margin-top: 5px;
-  display: block;
 }
 
 .header-burger-button div {
