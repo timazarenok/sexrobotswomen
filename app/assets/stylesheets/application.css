@@ -286,7 +286,7 @@
   display: contents;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 500px) {
   .second-line-block-person,
   .second-line-block-person2 {
     display: none;
@@ -581,7 +581,7 @@
   background-color: black;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 500px) {
   .desktop {
     display: none;
   }
