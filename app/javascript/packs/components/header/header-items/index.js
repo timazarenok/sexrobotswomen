@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import { Navbar, Nav, Image, Button } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import inst from "../instagram.png";
-import twitter from "../twitter.png";
 import { useTranslation } from "react-i18next";
 
 const HeaderItems = () => {
@@ -92,9 +91,6 @@ const HeaderItems = () => {
         )}
         <div className="social">
           <Image src={inst} alt="instagram" />
-        </div>
-        <div className="social">
-          <Image src={twitter} alt="twitter" />
         </div>
       </div>
     </Navbar>

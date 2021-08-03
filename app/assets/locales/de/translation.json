@@ -1,13 +1,13 @@
 {
   "header": {
-    "first" : "was wir tun" ,
-    "second" : "wer wir sind" ,
-    "third" : "blog" ,
-    "fouth" : "kontakt"
+    "first": "was wir tun",
+    "second": "wer wir sind",
+    "third": "blog",
+    "fouth": "kontakt"
   },
-  "what we do" : {
+  "what we do": {
     "title": "was wir tun",
-    "text": "Dieses Projekt behandelt humanoide Sexroboter in Hinsicht auf Frauen* (= Frauen, Femmes und nicht-binäre Personen). Frauen* sind benachteiligt in Sexualität und unterrepräsentiert in der Entwicklung von KI und Robotics. <br /> <br /> Das Ziel ist Bewusstsein über mögliche Risiken und Chancen dieser Technologie für Frauen* zu schaffen. <br /> <br /> Umgesetzt wird dies durch die Erstellung ethischer Guidelines, die Verbreitung dieser an Bildungspersonal (Zielgruppe) und durch genderübergreifende Solidarität. Zudem wird ein emotionaler Zugang durch die Song- und Videoproduktion “Love Robot” für vielschichtige Gesellschaftsgruppen geschaffen. <br /> <br /> KI in gegenderten Sexrobotern muss jetzt Aufmerksamkeit geschenkt werden, um diese Entwicklung beeinflussen zu können. Unsere Motivation ist die vorherrschende Un-Gleichberechtigung der Frauen* und eine drohende Fortführung durch autonome Systeme. ",
+    "text": "Dieses Projekt behandelt humanoide Sexroboter in Hinsicht auf Frauen* (= Frauen, Femmes und nicht-binäre Personen). Frauen* sind benachteiligt in Sexualität und unterrepräsentiert in der Entwicklung von KI und Robotics. \u003cbr /\u003e \u003cbr /\u003e Das Ziel ist Bewusstsein über mögliche Risiken und Chancen dieser Technologie für Frauen* zu schaffen. \u003cbr /\u003e \u003cbr /\u003e Umgesetzt wird dies durch die Erstellung ethischer Guidelines, die Verbreitung dieser an Bildungspersonal (Zielgruppe) und durch genderübergreifende Solidarität. Zudem wird ein emotionaler Zugang durch die Song- und Videoproduktion “Love Robot” für vielschichtige Gesellschaftsgruppen geschaffen. \u003cbr /\u003e \u003cbr /\u003e KI in gegenderten Sexrobotern muss jetzt Aufmerksamkeit geschenkt werden, um diese Entwicklung beeinflussen zu können. Unsere Motivation ist die vorherrschende Un-Gleichberechtigung der Frauen* und eine drohende Fortführung durch autonome Systeme.",
     "button": "projekt beschreibung herunterladen"
   },
   "who": {
@@ -16,24 +16,15 @@
       "name": "M. Sc. Eva Gengler",
       "position": "Projektleitung",
       "email": "gengler.eva@gmail.com",
-      "description": "Projektleitung und -mitarbeit \"Sex, Roboter, Frauen* - Zukunft und Tabu\" <br /> <i className=\"subtext\">   seit April 2021 @ erfolgsfaktorFRAU e.V. </i> <br /> <br /> Projektmitarbeit \"Frauen* und Künstliche Intelligenz - Geschlechterpolitische Veränderungen durch neue Technologien\" <br /> <i className=\"subtext\">   Feb.- Mai 2021 @ erfolgsfaktorFRAU e.V. </i> <br /> <br /> Unit-Ownerin Business Unit Digitale Transformation Sep. 2020 bis Mai 2021 und Business Analystin & Anforderungsmanagerin <br /> <i className=\"subtext\">   Dez. 2019 - Mai 2021 @ CodeCamp:N Masterarbeit: </i> <br /> and Business Analyst & Requirements Manager <br /> <i className=\"subtext\">   Dec. 2019 - May 2021 @ CodeCamp:N </i> <br /> <br /> \"Artificial Intelligence and Recruiting: An  Empirical Study of its Ethical Dimensions\" <br /> <i className=\"subtext\">@FAU 2018 - 2019</i>"
+      "description": "Projektleitung und -mitarbeit \"Sex, Roboter, Frauen* - Zukunft und Tabu\" \u003cbr /\u003e \u003ci className=\"subtext\"\u003e   seit April 2021 @ erfolgsfaktorFRAU e.V. \u003c/i\u003e \u003cbr /\u003e \u003cbr /\u003e Projektmitarbeit \"Frauen* und Künstliche Intelligenz - Geschlechterpolitische Veränderungen durch neue Technologien\" \u003cbr /\u003e \u003ci className=\"subtext\"\u003e   Feb.- Mai 2021 @ erfolgsfaktorFRAU e.V. \u003c/i\u003e \u003cbr /\u003e \u003cbr /\u003e Unit-Ownerin Business Unit Digitale Transformation Sep. 2020 bis Mai 2021 und Business Analystin \u0026 Anforderungsmanagerin \u003cbr /\u003e \u003ci className=\"subtext\"\u003e   Dez. 2019 - Mai 2021 @ CodeCamp:N Masterarbeit: \u003c/i\u003e \u003cbr /\u003e and Business Analyst \u0026 Requirements Manager \u003cbr /\u003e \u003ci className=\"subtext\"\u003e   Dec. 2019 - May 2021 @ CodeCamp:N \u003c/i\u003e \u003cbr /\u003e \u003cbr /\u003e \"Artificial Intelligence and Recruiting: An  Empirical Study of its Ethical Dimensions\" \u003cbr /\u003e \u003ci className=\"subtext\"\u003e@FAU 2018 - 2019\u003c/i\u003e"
     },
     "person2": {
       "name": "Stefan Lacina",
       "position": "Projektinitiierung",
       "email": "stefan.lacina@protonmail.com",
-      "description": "Projektinitierung und -mitarbeit \"Sex, Roboter, Frauen* - Zukunft und Tabu\" <br /> <i className=\"subtext\">   seit April 2021 @ erfolgsfaktorFRAU e.V. </i> <br /> <br /> Projektinitierung und -leitung “Feminism Meets AI: On Technological Progress and its Impact on Women*, Girls and Trans* People” <br /> <i className=\"subtext\">seit Nov. 2016 - März 2021</i> <br /> <br /> Artist & Repertoire Representative <br />@ Record Label Fox Lane Musiс <br /> <i className=\"subtext\">seit Sept. 2020</i> <br /> <br /> Projektinitierung und -mitglied <br />@ Fox Lane Music Studios <br /> <i className=\"subtext\">seit März 2014 - August 2020</i>"
+      "description": "Projektinitierung und -mitarbeit \"Sex, Roboter, Frauen* - Zukunft und Tabu\" \u003cbr /\u003e \u003ci className=\"subtext\"\u003e   seit April 2021 @ erfolgsfaktorFRAU e.V. \u003c/i\u003e \u003cbr /\u003e \u003cbr /\u003e Projektinitierung und -leitung “Feminism Meets AI: On Technological Progress and its Impact on Women*, Girls and Trans* People” \u003cbr /\u003e \u003ci className=\"subtext\"\u003eseit Nov. 2016 - März 2021\u003c/i\u003e \u003cbr /\u003e \u003cbr /\u003e Artist \u0026 Repertoire Representative \u003cbr /\u003e@ Record Label Fox Lane Musiс \u003cbr /\u003e \u003ci className=\"subtext\"\u003eseit Sept. 2020\u003c/i\u003e \u003cbr /\u003e \u003cbr /\u003e Projektinitierung und -mitglied \u003cbr /\u003e@ Fox Lane Music Studios \u003cbr /\u003e \u003ci className=\"subtext\"\u003eseit März 2014 - August 2020\u003c/i\u003e"
     }
   },
-  "contact": {
-    "header": "Kontakt",
-    "text": "in kooperation mit"
-  },
-  "footer": {
-    "first" : "impressum" ,
-    "second" : "datenschutzerklärung"
-  },
-  "blog": {
-    "text": "Dieses Projekt behandelt humanoide Sexroboter in Hinsicht auf Frauen* (= Frauen, Femmes und nicht-binäre Personen). Frauen* sind benachteiligt in Sexualität und unterrepräsentiert in der Entwicklung von KI und Robotics. <br /> <br /> Das Ziel ist Bewusstsein über mögliche Risiken und Chancen dieser Technologie für Frauen* zu schaffen. <br /> <br /> Umgesetzt wird dies durch die Erstellung ethischer Guidelines, die Verbreitung dieser an Bildungspersonal (Zielgruppe) und durch genderübergreifende Solidarität. Zudem wird ein emotionaler Zugang durch die Song- und Videoproduktion “Love Robot” für vielschichtige Gesellschaftsgruppen geschaffen. <br /> <br /> KI in gegenderten Sexrobotern muss jetzt Aufmerksamkeit geschenkt werden, um diese Entwicklung beeinflussen zu können. Unsere Motivation ist die vorherrschende Un-Gleichberechtigung der Frauen* und eine drohende Fortführung durch autonome Systeme. "
-  }
+  "contact": { "header": "Kontakt", "text": "in kooperation mit" },
+  "footer": { "first": "impressum", "second": "datenschutzerklärung" }
 }

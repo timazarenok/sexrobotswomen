@@ -17,7 +17,6 @@ const Footer = () => {
         <Nav.Item>{"          "}</Nav.Item>
       </div>
       <Nav.Item>instagram</Nav.Item>
-      <Nav.Item>twitter</Nav.Item>
     </Nav>
   );
 };

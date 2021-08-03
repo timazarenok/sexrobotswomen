@@ -1,13 +1,13 @@
 {
   "header": {
-    "first" : "what we do" ,
-    "second" : "who we are" ,
-    "third" : "blog" ,
-    "fouth" : "contact"
+    "first": "what we do",
+    "second": "who we are",
+    "third": "blog",
+    "fouth": "contact"
   },
-  "what we do" : {
+  "what we do": {
     "title": "what we do",
-    "text": "This project deals with the phenomenon of sexual relationship between humanoid sex robots and humans and the issues these cause for feminism. Female-looking sex robots strengthen the objectification of women* by representing them. <br /> <br /> The goal is to raise awareness of the negative impact of this new technological progress on women* in order to definitively dehumanize sex robots. <br /> <br /> This project is implemented through a song with an accompanying video and a cross media campaign. It will address various groups throughout society, since sharing platforms like Youtube and TikTok make music freely accessible around the world. The target group is society, media and politics. <br /> <br /> This problem needs to be addressed now so as to be able to influence the pernicious development of this kind of artificial intelligence (AI).",
+    "text": "This project deals with the phenomenon of sexual relationship between humanoid sex robots and humans and the issues these cause for feminism. Female-looking sex robots strengthen the objectification of women* by representing them. \u003cbr /\u003e \u003cbr /\u003e The goal is to raise awareness of the negative impact of this new technological progress on women* in order to definitively dehumanize sex robots. \u003cbr /\u003e \u003cbr /\u003e This project is implemented through a song with an accompanying video and a cross media campaign. It will address various groups throughout society, since sharing platforms like Youtube and TikTok make music freely accessible around the world. The target group is society, media and politics. \u003cbr /\u003e \u003cbr /\u003e This problem needs to be addressed now so as to be able to influence the pernicious development of this kind of artificial intelligence (AI).",
     "button": "download project description"
   },
   "who": {
@@ -16,24 +16,15 @@
       "name": "M. Sc. Eva Gengler",
       "position": "Project manager",
       "email": "gengler.eva@gmail.com",
-      "description": "Project management and participation in \"Sex, Robots, Women* - Future and Taboo\" <br /> <i className=\"subtext\">   since April 2021 @ erfolgsfaktorFRAU e.V. </i> <br /> <br /> Project participation \"Women* and Artificial Intelligence - Changes in Gender Policy through New Technologies\" <br /> <i className=\"subtext\">   Feb.- May 2021 @ erfolgsfaktorFRAU e.V. </i> <br /> <br /> Unit-Owner Business Unit Digital Transformation <br /> <i className=\"subtext\">Sep. 2020 - May 2021</i> <br /> and Business Analyst & Requirements Manager <br /> <i className=\"subtext\">Dec. 2019 - May 2021 @ CodeCamp:N </i> <br /> <br /> Master Thesis: \"Artificial Intelligence and Recruiting: An Empirical Study of its Ethical Dimensions\" <br /> <i className=\"subtext\">@FAU 2018 - 2019</i>"
+      "description": "Project management and participation in \"Sex, Robots, Women* - Future and Taboo\" \u003cbr /\u003e \u003ci className=\"subtext\"\u003e   since April 2021 @ erfolgsfaktorFRAU e.V. \u003c/i\u003e \u003cbr /\u003e \u003cbr /\u003e Project participation \"Women* and Artificial Intelligence - Changes in Gender Policy through New Technologies\" \u003cbr /\u003e \u003ci className=\"subtext\"\u003e   Feb.- May 2021 @ erfolgsfaktorFRAU e.V. \u003c/i\u003e \u003cbr /\u003e \u003cbr /\u003e Unit-Owner Business Unit Digital Transformation \u003cbr /\u003e \u003ci className=\"subtext\"\u003eSep. 2020 - May 2021\u003c/i\u003e \u003cbr /\u003e and Business Analyst \u0026 Requirements Manager \u003cbr /\u003e \u003ci className=\"subtext\"\u003eDec. 2019 - May 2021 @ CodeCamp:N \u003c/i\u003e \u003cbr /\u003e \u003cbr /\u003e Master Thesis: \"Artificial Intelligence and Recruiting: An Empirical Study of its Ethical Dimensions\" \u003cbr /\u003e \u003ci className=\"subtext\"\u003e@FAU 2018 - 2019\u003c/i\u003e"
     },
     "person2": {
       "name": "Stefan Lacina",
       "position": "Project INITIATOR",
       "email": "emailstefan.lacina@protonmail.com",
-      "description": "Project initiation and participation “Sex, Robots, Women* - Future & Taboo” <br /> <i className=\"subtext\">   since April 2021 @ erfolgsfaktorFRAU e.V. </i> <br /> <br /> Project initiation and management “Feminism meets AI: On Technological Progress and its Impact on Women*, Girls and Trans* People” <br /> <i className=\"subtext\">Nov. 2016 - March 2021</i> <br /> <br /> Artist & Repertoire Representative <br />@ Record Label Fox Lane Music <br /> <i className=\"subtext\">since Sept. 2020</i> <br /> <br /> Project initiation and participation <br />@ Fox Lane Studios <br /> <i className=\"subtext\">since March 2014</i>"
+      "description": "Project initiation and participation “Sex, Robots, Women* - Future \u0026 Taboo” \u003cbr /\u003e \u003ci className=\"subtext\"\u003e   since April 2021 @ erfolgsfaktorFRAU e.V. \u003c/i\u003e \u003cbr /\u003e \u003cbr /\u003e Project initiation and management “Feminism meets AI: On Technological Progress and its Impact on Women*, Girls and Trans* People” \u003cbr /\u003e \u003ci className=\"subtext\"\u003eNov. 2016 - March 2021\u003c/i\u003e \u003cbr /\u003e \u003cbr /\u003e Artist \u0026 Repertoire Representative \u003cbr /\u003e@ Record Label Fox Lane Music \u003cbr /\u003e \u003ci className=\"subtext\"\u003esince Sept. 2020\u003c/i\u003e \u003cbr /\u003e \u003cbr /\u003e Project initiation and participation \u003cbr /\u003e@ Fox Lane Studios \u003cbr /\u003e \u003ci className=\"subtext\"\u003esince March 2014\u003c/i\u003e"
     }
   },
-  "contact": {
-    "header": "Contact",
-    "text": "in cooperation with"
-  },
-  "footer": {
-    "first" : "imprint" ,
-    "second" : "privacy notice"
-  },
-  "blog": {
-    "text": "This project deals with the phenomenon of sexual relationship between humanoid sex robots and humans and the issues these cause for feminism. Female-looking sex robots strengthen the objectification of women* by representing them. <br /> <br /> The goal is to raise awareness of the negative impact of this new technological progress on women* in order to definitively dehumanize sex robots. <br /> <br /> This project is implemented through a song with an accompanying video and a cross media campaign. It will address various groups throughout society, since sharing platforms like Youtube and TikTok make music freely accessible around the world. The target group is society, media and politics. <br /> <br /> This problem needs to be addressed now so as to be able to influence the pernicious development of this kind of artificial intelligence (AI)."
-  }
+  "contact": { "header": "Contact", "text": "in cooperation with" },
+  "footer": { "first": "imprint", "second": "privacy notice" }
 }
