@@ -799,10 +799,12 @@
   border: none;
   font-size: 22px;
   line-height: 30px;
+  padding: 8px;
 }
 
 .card-header > p {
   margin-left: 70px;
+  margin-top: 0px;
 }
 
 .card-title, .card-subtitle, .card-text {
