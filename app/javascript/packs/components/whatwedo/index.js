@@ -1,7 +1,7 @@
 import React from "react";
 import { Button, Image } from "react-bootstrap";
 import { Trans, useTranslation } from "react-i18next";
-import "./whatwedo.css";
+
 import pic from "./pic.png";
 
 const Whatwedo = () => {

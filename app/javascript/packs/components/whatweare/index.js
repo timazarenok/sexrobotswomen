@@ -1,6 +1,5 @@
 import React from "react";
 import { Image } from "react-bootstrap";
-import "./whatweare.css";
 import eva from "./eva.png";
 import email from "./email icon.png";
 import { Trans, useTranslation } from "react-i18next";

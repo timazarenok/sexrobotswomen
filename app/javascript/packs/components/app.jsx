@@ -1,13 +1,14 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Header from "./header";
-import "bootstrap/dist/css/bootstrap.min.css";
 import Whatwedo from "./whatwedo";
 import Footer from "./footer";
 import Main from "./main";
 import Whatweare from "./whatweare";
 import Contacts from "./contacts";
 import Blog from "./blog";
+
+import "bootstrap/dist/css/bootstrap.min.css";
 
 const App = () => {
   return (

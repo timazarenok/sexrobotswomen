@@ -1,10 +1,10 @@
 import React from "react";
-import { Row, Col, Image } from "react-bootstrap";
+import { Image } from "react-bootstrap";
 import email from "./email icon.png";
 import eff from "./eff.png";
 import foxlane from "./foxlane.png";
 import kulturhaus from "./kulturhaus.png";
-import { Trans, useTranslation } from "react-i18next";
+import { useTranslation } from "react-i18next";
 
 import "./contacts.css";
 

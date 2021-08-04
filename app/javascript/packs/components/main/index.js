@@ -2,8 +2,6 @@ import React from "react";
 import { Row, Image, Col } from "react-bootstrap";
 import foto from "./mainfoto.jpg";
 
-import "./main.css";
-
 const Main = () => {
   return (
     <div className="main-block">
