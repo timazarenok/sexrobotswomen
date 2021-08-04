@@ -2,7 +2,6 @@ import React, { Suspense } from "react";
 import ReactDOM from "react-dom";
 import App from "./components/app.jsx";
 import "./components/i18n.js";
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 document.addEventListener("DOMContentLoaded", () => {
   ReactDOM.render(
