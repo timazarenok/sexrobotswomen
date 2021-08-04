@@ -6,8 +6,6 @@ import foxlane from "./foxlane.png";
 import kulturhaus from "./kulturhaus.png";
 import { useTranslation } from "react-i18next";
 
-import "./contacts.css";
-
 const Contacts = () => {
   const { t, i18n } = useTranslation();
 
