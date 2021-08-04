@@ -4,7 +4,6 @@ import { Trans, useTranslation } from "react-i18next";
 
 import stefan from "../stefan.png";
 import email from "../email icon.png";
-import "../whatweare.css";
 
 const Stefan = () => {
   const { t, i18n } = useTranslation();
