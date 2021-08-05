@@ -7,7 +7,7 @@ const Blog = () => {
   const [items, setItems] = useState([]);
 
   useEffect(() => {
-    axios.get("http://localhost:3000/blog_items").then(response => setItems(response.data))
+    axios.get("http://www.sexrobotswomen/blog_items").then(response => setItems(response.data))
   }, [])
 
   return (
