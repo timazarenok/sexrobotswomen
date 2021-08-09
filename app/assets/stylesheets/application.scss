@@ -22,7 +22,7 @@
   font-style: normal;
   font-weight: normal;
   src: local("Digital Numbers Regular"),
-    url("./DigitalNumbers-Regular.woff") format("woff");
+    asset-url("./DigitalNumbers-Regular.woff") format("woff");
 }
 
 .pic-foto {
@@ -44,7 +44,7 @@
   line-height: 1.2 !important;
   font-family: "Digital Numbers Regular";
   src: local("Digital Numbers Regular"),
-  url("./DigitalNumbers-Regular.woff") format("woff");
+    asset-url("./DigitalNumbers-Regular.woff") format("woff");
 }
 
 .line-block {
@@ -229,7 +229,7 @@
   font-family: Josefin Sans;
   text-align: center;
   line-height: 1;
-  color: #4E4E4E;
+  color: #4e4e4e;
 }
 
 .person2-name {
@@ -441,32 +441,32 @@
   letter-spacing: 6px;
 }
 
-@media(max-width: 500px) {
+@media (max-width: 500px) {
   .main-photo {
     width: 375px;
     height: 250px;
     object-fit: cover;
     object-position: left top;
   }
-  
+
   .main-block {
     display: block;
   }
-  
+
   .text {
     width: 365px !important;
     height: auto;
     margin-left: 10px;
     margin-top: 20px;
   }
-  
+
   .main-title {
     font-size: 72px !important;
     overflow-wrap: break-word;
     line-height: 1.4 !important;
     font-family: "Digital Numbers Regular";
   }
-  
+
   .main-subtitle {
     font-size: 36px;
     overflow-wrap: break-word;
@@ -658,7 +658,7 @@
 @media (max-width: 500px) {
   .footer-nav {
     width: 100%;
-    margin-top: 30px; 
+    margin-top: 30px;
   }
 
   .footer-nav .nav-item {
@@ -807,7 +807,9 @@
   margin-top: 0px;
 }
 
-.card-title, .card-subtitle, .card-text {
+.card-title,
+.card-subtitle,
+.card-text {
   padding: 8px 16px;
 }
 
